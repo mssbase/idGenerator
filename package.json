@@ -1,0 +1,7 @@
+{
+  "name": "@mssbase/id-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Michal S",
+  "license": "MIT"
+}

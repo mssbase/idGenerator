@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23aa5adf-8b78-4c74-8bf3-85143c73ca73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BB/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/.idea/BB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/.stylelintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/src/images/books/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/src/images/books/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/src/images/books/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/src/images/books/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/src/images/books/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/src/js/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/src/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/src/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/.idea/BooksApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/.stylelintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/src/images/books/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/src/images/books/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/src/images/books/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/src/images/books/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/src/images/books/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/src/js/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/src/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/src/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/src/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/src/vendor/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Electron/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Electron/.idea/Electron.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Electron/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Electron/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Electron/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Electron/app/images/Rest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Electron/app/images/Work.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Electron/app/sounds/bell.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Electron/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Electron/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/Pizza.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza/.stylelintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza/src/db/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PizzeriaPortal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PizzeriaPortal/.idea/PizzeriaPortal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PizzeriaPortal/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PizzeriaPortal/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PizzeriaPortal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/.idea/SoloProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/.stylelintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/src/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/src/sass/_layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/src/sass/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/src/sass/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/src/sass/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/src/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/src/styleguide.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tworzenie Projektu React" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WDP-2103-02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WDP-2103-02/.idea/WDP-2103-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WDP-2103-02/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WDP-2103-02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WDP-2103-02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WDP-2103-02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WDP-2103-02/WDP-2103-02" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-js/.idea/blog-js.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-js/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/.idea/blog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/idGenerator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript-blog/.idea/javascript-blog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript-blog/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mssbase/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mssbase/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mssbase/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mssbase/.idea/mssbase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mssbase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mssbase/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node-practice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node-practice/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node-practice/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node-practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node-practice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node-practice/.idea/node-practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node-practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node-practice/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node-practice/people.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzeria-portal-master-2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzeria-portal-master-2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzeria-portal-master-2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzeria-portal-master-2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzeria-portal-master-2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzeria-portal-master-2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzeria-portal-master-2/.idea/pizzeria-portal-master-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzeria-portal-master-2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.stylelintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/.idea/untitled3sdadsa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/my-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/my-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/my-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/my-app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/my-app/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/my-app/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/my-app/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/my-app/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/my-app/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/my-app/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/my-app/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/my-app/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/my-app/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/my-app/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/my-app/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/my-app/src/service-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/my-app/src/serviceWorkerRegistration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/my-app/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/my-app/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../watermark/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../watermark/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../watermark/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../watermark/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../watermark/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../watermark/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../watermark/.idea/watermark.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../watermark/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../watermark/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../watermark/img/test-with-watermark.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../watermark/img/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../watermark/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../watermark/test-with-watermark.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../watermark/test-with-watermark2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../watermark/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/WebstormProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/WebstormProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript-blog/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../BB/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript-blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BB/src/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript-blog/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript-blog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../js-b/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript-blog/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../BB/src/vendor/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning-git-2" beforeDir="false" afterPath="$PROJECT_DIR$/../learning-git-2" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1riPyOJEBQe2ikTko4LX4ZKmutu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.16.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.40" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23aa5adf-8b78-4c74-8bf3-85143c73ca73" name="Default Changelist" comment="" />
+      <created>1619456191134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619456191134</updated>
+      <workItem from="1619456192564" duration="604000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
