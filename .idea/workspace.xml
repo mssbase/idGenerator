@@ -105,10 +105,6 @@
       <change afterPath="$PROJECT_DIR$/../blog-js/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/.idea/blog.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/idGenerator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javascript-blog/.idea/javascript-blog.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javascript-blog/js/script.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mssbase/.idea/.gitignore" afterDir="false" />
@@ -146,6 +142,13 @@
       <change afterPath="$PROJECT_DIR$/../untitled1/.stylelintrc.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled1/src/.idea/src.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled2/.idea/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/untitled3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/yarn.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled3sdadsa/.idea/modules.xml" afterDir="false" />
@@ -190,6 +193,9 @@
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javascript-blog/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../BB/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javascript-blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BB/src/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javascript-blog/package-lock.json" beforeDir="false" />
@@ -203,7 +209,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1riPyOJEBQe2ikTko4LX4ZKmutu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -213,7 +219,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.16.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.40" />
@@ -228,7 +236,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619456191134</updated>
-      <workItem from="1619456192564" duration="604000" />
+      <workItem from="1619456192564" duration="1921000" />
     </task>
     <servers />
   </component>
@@ -245,5 +253,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="134" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1619457821302">
+      <screen x="0" y="25" width="1280" height="718" />
+    </state>
+    <state x="378" y="134" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1280.718@0.25.1280.718" timestamp="1619457821302" />
+    <state x="305" y="67" key="search.everywhere.popup" timestamp="1619456992916">
+      <screen x="0" y="25" width="1280" height="718" />
+    </state>
+    <state x="305" y="67" key="search.everywhere.popup/0.25.1280.718@0.25.1280.718" timestamp="1619456992916" />
   </component>
 </project>

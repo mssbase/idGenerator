@@ -3,5 +3,17 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Michal S",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mssbase/idGenerator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mssbase/idGenerator/issues"
+  },
+  "homepage": "https://github.com/mssbase/idGenerator#readme",
+  "description": ""
 }
